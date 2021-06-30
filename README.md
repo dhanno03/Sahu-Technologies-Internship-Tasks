@@ -22,11 +22,11 @@ The tools and technologies used were:
 
 1.Front End: HTML, CSS, Bootstrap, jQuery, JavaScript
 
-1.Back End: PHP
+2.Back End: PHP
 
-1.Database: MySQL
+3.Database: MySQL
 
-1.Software Used: Xampp, Visual Studio Code
+4.Software Used: Xampp, Visual Studio Code
 
 [<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-31-72535.png>](https://github.com/dhanno03/Sahu-Technologies-Internship-Tasks/blob/main/MAIN%20PROJECT%20TASK/Python%20program%20to%20generate%20random.py)
 [<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/youtube-1946324-1646408.png>](https://www.youtube.com/watch?v=QGPmm3_TPlI)
@@ -42,4 +42,4 @@ The tools and technologies used were:
 
 1.Technology used: Python & Tkinter GUI
 
-1.Software used: VS Code
+2.Software used: VS Code
