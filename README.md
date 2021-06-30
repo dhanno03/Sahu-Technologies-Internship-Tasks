@@ -8,8 +8,8 @@ This repository contains the task that were completed by me during the internshi
 
 The main tasks to that were performed:
 
-[<img align = left height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-31-72535.png>](https://github.com/dhanno03/Sahu-Technologies-Internship-Tasks/tree/main/MAIN%20PROJECT%20TASK/denteur)
-[<img align = left height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/youtube-1946324-1646408.png>](https://www.youtube.com/watch?v=5oKgZHR_5y0)
+[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-31-72535.png>](https://github.com/dhanno03/Sahu-Technologies-Internship-Tasks/tree/main/MAIN%20PROJECT%20TASK/denteur)
+[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/youtube-1946324-1646408.png>](https://www.youtube.com/watch?v=5oKgZHR_5y0)
 
 ### # Task-1 : WEB DEVELOPMENT
 _Please click on the images on left side to view my solution._
