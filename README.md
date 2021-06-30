@@ -43,3 +43,7 @@ The tools and technologies used were:
 1.Technology used: Python & Tkinter GUI
 
 2.Software used: VS Code
+
+
+
+**NOTE:** The folders WEB DEV TASKS and PYTHON DEV TASKS consists of the extra tasks performed during the internship.
