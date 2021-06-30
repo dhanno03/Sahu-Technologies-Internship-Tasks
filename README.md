@@ -46,4 +46,6 @@ The tools and technologies used were:
 
 
 
+    
+
 **NOTE:** The folders WEB DEV TASKS and PYTHON DEV TASKS consists of the extra tasks performed during the internship.
